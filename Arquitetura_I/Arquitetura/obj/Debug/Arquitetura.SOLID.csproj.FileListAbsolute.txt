@@ -1,0 +1,7 @@
+C:\Users\Marcos\Dropbox\ESTUDO\CURSO EDUARDO PIRES DE ARQUITETURA DE SOFTWARE .NET\Arquitetura_I\Arquitetura\bin\Debug\Arquitetura.SOLID.exe
+C:\Users\Marcos\Dropbox\ESTUDO\CURSO EDUARDO PIRES DE ARQUITETURA DE SOFTWARE .NET\Arquitetura_I\Arquitetura\bin\Debug\Arquitetura.SOLID.pdb
+C:\Users\Marcos\Dropbox\ESTUDO\CURSO EDUARDO PIRES DE ARQUITETURA DE SOFTWARE .NET\Arquitetura_I\Arquitetura\obj\Debug\Arquitetura.SOLID.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Dropbox\ESTUDO\CURSO EDUARDO PIRES DE ARQUITETURA DE SOFTWARE .NET\Arquitetura_I\Arquitetura\obj\Debug\Arquitetura.SOLID.exe
+C:\Users\Marcos\Dropbox\ESTUDO\CURSO EDUARDO PIRES DE ARQUITETURA DE SOFTWARE .NET\Arquitetura_I\Arquitetura\obj\Debug\Arquitetura.SOLID.pdb
+C:\Users\Marcos\Dropbox\ESTUDO\CURSO EDUARDO PIRES DE ARQUITETURA DE SOFTWARE .NET\Material Curso\Arquitetura_I\Arquitetura\obj\Debug\Arquitetura.SOLID.exe
+C:\Users\Marcos\Dropbox\ESTUDO\CURSO EDUARDO PIRES DE ARQUITETURA DE SOFTWARE .NET\Material Curso\Arquitetura_I\Arquitetura\obj\Debug\Arquitetura.SOLID.pdb
